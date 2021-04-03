@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. Im currently learning front end web development.
 
 <!--
 **zaid-github/zaid-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
